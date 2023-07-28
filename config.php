@@ -25,3 +25,6 @@ echo $lang['welcome']; // Output: Welcome
 echo $lang['hello'];   // Output: Hello
 echo $lang['goodbye']; // Output: Goodbye
 ?>
+<a href="?lang=en">English</a>
+<a href="?lang=es">Español</a>
+<!-- Add more language options as needed -->
